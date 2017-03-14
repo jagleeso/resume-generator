@@ -1,13 +1,13 @@
 {
     "info": {
-        "firstName": "Dwight",
-        "lastName": "Schrute",
-        "email": "dschrute@schrutefarms.com",
-        "cell": "570-555-1212",
-        "site": "www.google.com",
-        "position": "Star Paper Salesman",
-        "address_l1": "Main Street",
-        "address_l2": "Honessdale, PA, 18431",
+        "firstName": "James",
+        "lastName": "Gleeson",
+        "email": "jagleeso@gmail.com",
+        "cell": "",
+        "site": "",
+        "position": "PhD Student",
+        "address_l1": "499 Martha Street",
+        "address_l2": "Toronto, ON, L7R 2R1",
         "title": "Curriculum Vitae"
     },
 
@@ -30,15 +30,14 @@
     },
     "publications": {
         "pub1": {
-            "authors": "Schrute, D.K.",
-            "title": "Blood alone moves the wheel of history",
-            "conference": "Conference",
-            "date": "March 2006",
-            "location": "NBC",
+            "authors": "Gleeson, James and Kats, Daniel and Mei, Charlie and de Lara, Eyal",
+            "title": "Technical report: Crane - Fast and Migratable GPU Passthrough for OpenCL applications",
+            "conference": "Technical Report",
+            "date": "2017",
             "links": [
                 {
-                    "text": "Video",
-                    "url": "http://www.youtube.com"
+                    "text": "PDF",
+                    "url": "publications/crane_tech_report.pdf"
                 }
             ]
         }
